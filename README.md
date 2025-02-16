@@ -66,7 +66,7 @@ I'm a **Machine Learning and Web Developer** passionate about building web appli
 
 # 🔗 Connect with Me:
 <p align="left">
-<a href="https://github.com/suvratketkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="suvratketkar" height="30" width="40" /></a>
+<a href="https://github.com/suvrat-ketkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="suvratketkar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/suvrat-ketkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suvrat-ketkar" height="30" width="40" /></a>
 <a href="https://instagram.com/suvratketkar_4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suvratketkar_4" height="30" width="40" /></a>
 </p>
