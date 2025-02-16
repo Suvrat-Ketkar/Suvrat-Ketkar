@@ -1,61 +1,79 @@
+<h1 align="center">Hi 👋, I'm Suvrat Ketkar</h1>
+<p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
----
+# 🌟 About Me:
+I'm a **Machine Learning and Web Developer** passionate about building web applications and scalable web solutions.I have experience in **Flask, ExpressJS, Machine Learning and NLP.**
 
-# Hi there 👋, I'm Suvrat Ketkar  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-🚀 **Backend & ML Developer**  
-🎓 **Computer Engineering Student at PICT**
+# 💻 Tech Stack:
 
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
----
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-## 🛠️ Tech Stack  
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
-  
-  <br>
-  
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"/>
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 
-</div>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 
 
----
 
-## 💻 Projects  
-📌 **Consumer Complaint Analysis**  
-🔹 **Developed an ML-based system** for classifying and clustering consumer complaints to provide insights and streamline issue resolution.  
 
-📌 **ScalpSmart**  
-🔹 **AI-powered hair and scalp analysis** platform using deep learning to detect scalp conditions and provide **personalized recommendations**.  
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-📌 **Community Complaint Management System**  
-🔹 A **real-time web app** for tracking and resolving local issues with **photo & location tagging**.  
+# 🌟 My Projects:
 
----
+### 💡 Scalp Smart
+- An AI-powered platform for predicting baldness stages and recommending haircare products.
+- **🔗 [Project Repository](https://github.com/Suvrat-Ketkar/ScalpSmart)**
 
-## 🏆 Achievements  
-🏅 **IBM SkillsBuild Hackathon Finalist**  
-🏅 **Impetus 2024 Winner**  
+### 🌀 Consumer Complaint Analysis
+- The project aims to streamline complaint analysis for businesses using **NLP**, helping them identify trends and improve customer satisfaction
+- **🔗 [Project Repository](https://github.com/Suvrat-Ketkar/Complaint-Analysis)**
 
----
+### 🔒 **Express JWT Authentication & Authorization System**
+- **Description:** A backend authentication system using **JWT (JSON Web Tokens)** for secure login and role-based access control.  
+- **Features:**  
+  ✅ Secure token-based authentication  
+  ✅ Middleware for role-based access control  
+  ✅ Refresh token mechanism  
+- **Tech Stack:** Node.js, Express, JWT, MongoDB, React  
+- **🔗 [Project Repository](https://github.com/Suvrat-Ketkar/express-jwt-auth)** 
 
-## 📖 Research  
-📄 **IEEE ICATE-2025 Paper Presentation** – Research on **[insert brief topic]**  
-🔍 Exploring **AI-driven automation** in complaint management and financial tracking.  
 
----
+# 📈 Currently Working On:
+### **Community Complaint Management System**
+- **Description:** A web app where users can report local issues, track complaint status, and receive updates from authorities.  
+- **Tech Stack:** ExpressJS, MongoDB, React, Firebase Cloud Messaging 
 
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suvrat-ketkar)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suvrat-Ketkar)  
 
----
+# 🏆 Achievements:
+- **2nd Runner-up at Impetus and Concepts Hackathon** 🥇
+- **Finalist in IBM SkillsBuild Hackathon** 💪
+- **Paper accepted at IEEE ICATE-2025 Conference** 🎉
 
-This will make your GitHub profile look visually appealing with a clean and structured layout! 🚀 Let me know if you'd like any changes. 😊
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+# 🔗 Connect with Me:
+<p align="left">
+<a href="https://github.com/suvratketkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="suvratketkar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/suvrat-ketkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suvrat-ketkar" height="30" width="40" /></a>
+<a href="https://instagram.com/suvratketkar_4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suvratketkar_4" height="30" width="40" /></a>
+</p>
+
+
+### ✨ Random Dev Quote:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
