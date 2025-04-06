@@ -51,7 +51,7 @@ I'm a **Machine Learning enthusiast and Web Developer** passionate about buildin
 
 ### 🌍 TownSync
 - **Description:** A community-driven platform that empowers citizens to report local issues with ease and transparency.
-**📌 Key Features:**  
+- **📌 Key Features:**  
 ✅ Report issues with image and location tagging
 ✅ Real-time updates on complaint status
 ✅ Discover open issues within a 3km radius
