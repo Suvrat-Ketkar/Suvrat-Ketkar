@@ -47,7 +47,17 @@ I'm a **Machine Learning enthusiast and Web Developer** passionate about buildin
   ✅ Middleware for role-based access control  
   ✅ Refresh token mechanism  
 - **Tech Stack:** Node.js, Express, JWT, MongoDB, React  
-- **🔗 [Project Repository](https://github.com/Suvrat-Ketkar/express-jwt-auth)** 
+- **🔗 [Project Repository](https://github.com/Suvrat-Ketkar/express-jwt-auth)**
+
+### 🌍 TownSync
+- **Description:** A community-driven platform that empowers citizens to report local issues with ease and transparency.
+**📌 Key Features:**  
+✅ Report issues with image and location tagging
+✅ Real-time updates on complaint status
+✅ Discover open issues within a 3km radius
+✅ Admin panel for authorities to manage and resolve complaints
+- **Tech Stack:** MERN (MongoDB, Express.js, React, Node.js), Google Maps API, JWT Authentication
+- **🔗 [Project Repository](https://github.com/Suvrat-Ketkar/TownSync)**
 
 
 # 📈 Currently Working On:
