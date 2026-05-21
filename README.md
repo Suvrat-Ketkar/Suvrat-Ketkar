@@ -5,6 +5,11 @@
 # 🌟 About Me:
 I'm a **Machine Learning enthusiast and Web Developer** passionate about building web applications and scalable web solutions.I have experience in **Flask, ExpressJS, Machine Learning and NLP.**
 
+
+### 📩 Reach me at:
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/suvrat-ketkar)
+[![Google Scholar](https://shields.io)](https://scholar.google.com/citations?user=YZHOJbYAAAAJ)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 💻 Tech Stack:
