@@ -3,14 +3,27 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
 # 🌟 About Me:
-I'm a **Machine Learning enthusiast and Web Developer** passionate about building web applications and scalable web solutions.I have experience in **Flask, ExpressJS, Machine Learning and NLP.**
+I'm a **Machine Learning enthusiast and Web Developer** passionate about building web applications and scalable web solutions. I have experience in **Flask, ExpressJS, Machine Learning and NLP.**
 
-
-### 📩 Reach me at:
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/suvrat-ketkar)
-<br>
-[![Google Scholar](https://shields.io)](https://scholar.google.com/citations?user=YZHOJbYAAAAJ)
-
+# 🔗 Connect with Me:
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="25" width="30" /></td>
+    <td><a href="https://linkedin.com/in/suvrat-ketkar" target="_blank"><b>LinkedIn Profile</b></a></td>
+  </tr>
+  <tr>
+    <td><img src="Google_Scholar_logo.png" alt="Google Scholar" height="25" width="30" /></td>
+    <td><a href="https://google.com" target="_blank"><b>Google Scholar Profile</b></a></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="25" width="30" /></td>
+    <td><a href="https://instagram.com/suvratketkar_4" target="_blank"><b>Instagram Profile</b></a></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="25" width="30" /></td>
+    <td><a href="https://github.com/suvrat-ketkar" target="_blank"><b>GitHub Profile</b></a></td>
+  </tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -30,9 +43,6 @@ I'm a **Machine Learning enthusiast and Web Developer** passionate about buildin
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-
-
-
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -66,28 +76,15 @@ I'm a **Machine Learning enthusiast and Web Developer** passionate about buildin
 - **🛠 Tech Stack:** MERN (MongoDB, Express.js, React, Node.js), Google Maps API, JWT Authentication  
 - **🔗 [Project Repository](https://github.com/Suvrat-Ketkar/TownSync)**
 
-
 # 📈 Currently Working On:
 ### **Community Complaint Management System**
 - **Description:** A web app where users can report local issues, track complaint status, and receive updates from authorities.  
 - **Tech Stack:** ExpressJS, MongoDB, React, Firebase Cloud Messaging 
 
-
 # 🏆 Achievements:
 - **2nd Runner-up at Impetus and Concepts Hackathon** 🥇
 - **Finalist in IBM SkillsBuild Hackathon** 💪
 - **Paper accepted at IEEE ICATE-2025 Conference** 🎉
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-# 🔗 Connect with Me:
-<p align="left">
-<a href="https://github.com/suvrat-ketkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="suvratketkar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/suvrat-ketkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suvrat-ketkar" height="30" width="40" /></a>
-<a href="https://instagram.com/suvratketkar_4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suvratketkar_4" height="30" width="40" /></a>
-</p>
-
 
 ### ✨ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
