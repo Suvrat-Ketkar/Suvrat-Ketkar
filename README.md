@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
 # 🌟 About Me:
-I'm a **Machine Learning enthusiast and Web Developer** passionate about building web applications and scalable web solutions. I have experience in **Flask, ExpressJS, Machine Learning and NLP.**
+I'm a **Data Engineeing Intern at Wissen Technology** passionate about AI driven web applications and scalable web solutions. I have experience woking with **Python and Node.js**.
 
 # 🔗 Connect with Me:
 <table>
