@@ -13,7 +13,7 @@ I'm a **Data Engineeing Intern at Wissen Technology**. I am passionate about dev
   </tr>
   <tr>
     <td><img src="Google_Scholar_logo.png" alt="Google Scholar" height="25" width="30" /></td>
-    <td><a href="https://google.com" target="_blank"><b>Google Scholar Profile</b></a></td>
+    <td><a href="https://scholar.google.com/citations?user=YZHOJbYAAAAJ" target="_blank"><b>Google Scholar Profile</b></a></td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="25" width="30" /></td>
